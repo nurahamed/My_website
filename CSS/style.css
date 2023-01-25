@@ -1,0 +1,147 @@
+.profile-image{
+  border-radius: 50%;
+}
+hr{
+margin-top: 70px;;
+margin-left: 46%;
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 8%;
+}
+.last-quate{
+  font-size: 1.5rem;
+font-family: "News Cycle";
+}
+
+#title{
+  background-color: #BCEAD5;
+  /* background-color: #10A19D; */
+  /* color: #fff; */
+
+}
+
+.container-fluid{
+  padding: 3% 10%;
+}
+
+h1{
+  font-size: 5.5rem;
+  font-family: "Sacramento";
+text-align: center;
+/* color: #339999; */
+/* color: #146356; */
+color: #10A19F;
+
+/* font-size: 3rem; */
+
+}
+
+h2{
+  text-align: center;
+margin-bottom: 40px;
+font-family: 'Merriweather', sans-serif;
+font-size: 1.6rem;
+color: #10A19D;
+}
+
+
+h3{
+  font-family: 'Merriweather', sans-serif;
+}
+
+h4{
+  text-align: center;
+margin-bottom: 20px;
+font-family: 'Merriweather', sans-serif;
+font-size: 1rem;
+color: #10A19D;
+}
+
+
+.bottom-container{
+  text-align: center;
+margin-top: 40px;
+  column-rule-width: thick;
+}
+.bottom-color{
+background-color: #BCEAD5;
+
+}
+.copy-rights{
+padding: 50px  0 0 0 ;
+
+}
+.contact-me{
+  padding-top: 80px;
+}
+
+
+.design{
+  padding: 0 0 0 0;
+}
+.footer-link{
+padding: 0  35px 0 35px ;
+color: #10A19D;
+}
+
+.hello{
+  padding: 10px 0 0 5px;
+}
+
+.land{
+  padding-bottom: 0;
+  padding-top: 40px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.middle-container{
+  text-align: center;
+  margin: auto;
+  background-color: #EFF5F5;
+  background-color: #ECECEC;
+}
+
+.nav-item{
+  padding: 0  18px 0 0 ;
+
+}
+.nav-link{
+  color: #10A19D;
+}
+
+.nur{
+color: #10A19D;
+}
+.profile{
+  padding: 10px 0 0 0 ;
+}
+.skill-image{
+  height: 140px;
+  width: 140px;
+}
+.skills{
+  padding: 75px 0 10px 0;
+}
+
+.skill-row{
+  padding-top: 5px;
+}
+.top-container{
+  /* background-color: #9DF1DF; */
+   /* position: relative; */
+  padding-top: 100px;
+}
+
+.text-style{
+  font-family: "Noto Sans";
+}
+.text-head{
+font-size: 1.2rem;
+}
